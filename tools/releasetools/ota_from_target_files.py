@@ -769,6 +769,9 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
     script.Print("");
     script.Print(" LCD density: %s"%(density));
     script.Print("");
+    script.Print(" ************* Updated Source **************");
+    script.Print(" https://github.com/manishjvora ");
+    script.Print("");
     script.Print(" *******************************************");
   
   if OPTIONS.wipe_user_data:
